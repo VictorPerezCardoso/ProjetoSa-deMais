@@ -1,0 +1,7 @@
+{
+  "name": "Saúde Mais - Triagem Inteligente",
+  "description": "Uma plataforma de triagem médica inteligente que utiliza IA conversacional para avaliar sintomas e priorizar o atendimento ao paciente.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
